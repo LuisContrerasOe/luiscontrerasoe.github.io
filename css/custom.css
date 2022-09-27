@@ -9,6 +9,15 @@
                             Global
 =======================================================================================================*/
 
+.full-size {
+  background:red;
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+}
+
 * {
     outline: none !important;
     box-shadow: none;
@@ -846,7 +855,7 @@ form {
     }
 }
 
-/* 
+/*
 
 .shadow-team
 {
