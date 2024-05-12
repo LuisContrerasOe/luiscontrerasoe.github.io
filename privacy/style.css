@@ -1,0 +1,27 @@
+body {
+  background-color: #FDF5E6;
+  margin: 20px;
+}
+
+h1 {
+  margin-top: 0;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+a {
+  color: #FFB6C1;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
